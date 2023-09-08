@@ -15,6 +15,10 @@ body {
   scroll-behavior: smooth;
 }
 
+#home {
+  color: black;
+}
+
 a {
   text-decoration: none;
 }
